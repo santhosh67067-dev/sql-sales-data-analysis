@@ -25,7 +25,6 @@ INSERT INTO products (product_id, product_name, price) VALUES
 -- Insert order items
 INSERT INTO order_items (order_id, product_id, quantity) VALUES
 (101, 1, 1),
-(101, 3, 2),
 (102, 2, 1),
 (103, 1, 1),
 (104, 4, 1),
